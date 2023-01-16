@@ -1,0 +1,2 @@
+This is a Text file 2
+Content of Text file 2
